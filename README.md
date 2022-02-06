@@ -1,2 +1,2 @@
 # Hello, World!
-This is a traditional in computer programming project
+This is a traditional project in computer programming.
